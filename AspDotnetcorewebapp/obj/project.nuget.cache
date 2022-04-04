@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7qFbQXiNR866+aDAZPa9Zvi7CmX0zNDIlPu+ApGK5b6F7y/7KwCU/hIjuY7f+iCTk8HV8LAk7tKXtXYe5YjAUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sirisha\\source\\repos\\AspDotnetcorewebapp\\AspDotnetcorewebapp\\AspDotnetcorewebapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sirisha\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
